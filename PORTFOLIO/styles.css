@@ -116,7 +116,7 @@ font: bold 50px Times New Roman;
 
 
 
-  #profile-link {
+  .profile-link {
     display: flex;
     flex-direction: column;
     text-decoration: none;
@@ -182,7 +182,7 @@ font: bold 50px Times New Roman;
 }
 
 @media  (max-width: 490px)  {
-#profile-link {
+.profile-link {
 
     margin: 3px 10px;
 
@@ -211,7 +211,7 @@ font: bold 50px Times New Roman;
 
 
 @media  (max-width: 250px)  {
-#profile-link {
+.profile-link {
 
     margin: 3px 10px;
 
